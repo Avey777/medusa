@@ -1,5 +1,18 @@
 # @medusajs/dashboard
 
+## 2.0.5
+
+### Patch Changes
+
+- [#10098](https://github.com/medusajs/medusa/pull/10098) [`a153bc477c421cd3cfc6f2cb7e30f2f3661f5922`](https://github.com/medusajs/medusa/commit/a153bc477c421cd3cfc6f2cb7e30f2f3661f5922) Thanks [@kasperkristensen](https://github.com/kasperkristensen)! - fix(admin-shared,dashboard): Add missing Injection Zones and remove unused zones"
+
+- [#10082](https://github.com/medusajs/medusa/pull/10082) [`dea86d8c8774d5badadefbc92352d5145245a22f`](https://github.com/medusajs/medusa/commit/dea86d8c8774d5badadefbc92352d5145245a22f) Thanks [@kasperkristensen](https://github.com/kasperkristensen)! - fix(dashboard): Fix active nav link styling for built-in routes
+
+- Updated dependencies [[`a153bc477c421cd3cfc6f2cb7e30f2f3661f5922`](https://github.com/medusajs/medusa/commit/a153bc477c421cd3cfc6f2cb7e30f2f3661f5922)]:
+  - @medusajs/admin-shared@2.0.5
+  - @medusajs/js-sdk@2.0.5
+  - @medusajs/icons@2.0.5
+
 ## 2.0.4
 
 ### Patch Changes

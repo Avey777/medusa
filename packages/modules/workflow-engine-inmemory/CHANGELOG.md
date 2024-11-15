@@ -1,5 +1,11 @@
 # @medusajs/workflow-engine-inmemory
 
+## 2.0.5
+
+### Patch Changes
+
+- [#10031](https://github.com/medusajs/medusa/pull/10031) [`1eef324af33cfb70b414ac564788f28dfd6d2c18`](https://github.com/medusajs/medusa/commit/1eef324af33cfb70b414ac564788f28dfd6d2c18) Thanks [@carlos-r-l-rodrigues](https://github.com/carlos-r-l-rodrigues)! - Fix set step failure for async steps
+
 ## 2.0.4
 
 ## 2.0.3
